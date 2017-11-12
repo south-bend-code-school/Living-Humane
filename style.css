@@ -1,0 +1,32 @@
+body{
+  background-color: beige;
+}
+
+nav{
+  background-color: #00c853 !important;
+}
+
+.notokay{
+  /*color: FireBrick;*/
+  color: red;
+}
+
+.okay{
+  /*color: Lightgreen;*/
+  color: green;
+}
+
+.container {
+  background-color: white;
+  padding: 50px;
+}
+
+.idk {
+  text-align: center;
+  color: Gold;
+}
+
+.farm{
+  height: 60%;
+  width: 40%;
+}

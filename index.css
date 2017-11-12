@@ -1,0 +1,39 @@
+.border{
+  border: 10px solid green;
+  padding: 125px;
+  height: 600px;
+  margin-top: 5%;
+}
+h3 {
+  color: black;
+  text-decoration: none;
+}
+
+#farm{
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/64/Farmer_and_tractor_tilling_soil.jpg");
+background-size: 100% 100%;
+margin-top: 3%;
+}
+
+
+#food{
+background-image: url("https://kindfoodfarm.files.wordpress.com/2012/09/squash-mass1.jpg");
+}
+
+#you-help{
+  background-image: url("https://uploads.disquscdn.com/images/f75a77c696f7416eae132dc7ed4347715e4515a676c38f3541e48a0ca6151aeb.jpg");
+  background-size: 120% 120%;
+  background-position: 0px 0px;
+}
+
+#us{
+background-image: url("team.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+
+nav{
+background-color: #00c853 !important;
+}
