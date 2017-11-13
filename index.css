@@ -1,12 +1,12 @@
 .border{
   border: 10px solid green;
-  padding: 125px;
+  /*padding: 125px;*/
   height: 600px;
   margin-top: 5%;
 }
 .borderText{
   border: 10px solid green;
-  padding: 125px;
+  /*padding: 125px;*/
   margin-top: 5%;
 }
 h3 {
