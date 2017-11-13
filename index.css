@@ -4,6 +4,11 @@
   height: 600px;
   margin-top: 5%;
 }
+.borderText{
+  border: 10px solid green;
+  padding: 125px;
+  margin-top: 5%;
+}
 h3 {
   color: black;
   text-decoration: none;
